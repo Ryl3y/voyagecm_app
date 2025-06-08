@@ -1,5 +1,6 @@
 // src/components/ChartRenderer.js
 import React, { useEffect, useRef } from 'react';
+import {Chart} from 'chart.js';
 // Chart.js est importé via CDN dans public/index.html, donc pas besoin d'import ici pour le moment.
 // Pour une installation npm: import { Chart } from 'chart.js';
 
